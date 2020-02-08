@@ -1,2 +1,2 @@
 # BookwormPublicRepo
-Turn back now for your own sanity
+Turn back now, for your own sanity
